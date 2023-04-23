@@ -1,2 +1,4 @@
 # Rony-RajKumar-Krrish-
-RajKumar
+Rony RajKumar Krrish
+
+cd RonyRajKumarKrrish
